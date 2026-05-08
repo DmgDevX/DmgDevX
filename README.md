@@ -1,72 +1,149 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Full-Stack Developer from Sevilla, Spain, specialized in Java, Spring Boot, React, React Native and robot software</h3>
 
-<ul>
-<li>🔭 I’m currently working at Macco Robotics as Team Leader / Full-Stack Developer</li>
-<li>🤖 I build software for humanoid robots, including remote control SDKs and management apps</li>
-<li>💻 I work mainly with Java, Spring Boot, React, TypeScript, React Native and MongoDB</li>
-<li>🌱 I’m improving my expertise in backend architecture, microservices and secure APIs</li>
-<li>💬 Ask me about Java, Spring Boot, React, TypeScript, JWT, WebSockets and databases</li>
-<li>📫 How to reach me: dmg.dev@hotmail.com</li>
-<li>👨‍💻 All of my projects are available at: <a href="https://github.com/DmgDevX">github.com/DmgDevX</a></li>
-<li>⚡ Fun fact: I’m a musician who builds software for robots — mixing rhythm, code and real-world interaction</li>
-</ul>
+<h3 align="center">
+Full-Stack Developer from Sevilla, Spain 🇪🇸
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diemargondev" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+<p align="center">
+Specialized in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, <strong>React Native</strong> and <strong>robot software</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="mailto:dmg.dev@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-dmg.dev%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/diemargondev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Diego_Márquez-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DmgDevX" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DmgDevX-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About me
+
+```ts
+const diego = {
+  role: "Full-Stack Developer",
+  location: "Sevilla, Spain",
+  company: "Macco Robotics",
+  currentFocus: [
+    "Robot software",
+    "Remote control SDKs",
+    "Microservices",
+    "Secure APIs",
+    "Real-time systems"
+  ],
+  mainStack: [
+    "Java",
+    "Spring Boot",
+    "React",
+    "TypeScript",
+    "React Native",
+    "MongoDB",
+    "PostgreSQL",
+    "Kafka",
+    "WebSockets"
+  ],
+  funFact:
+    "I'm a musician who builds software for robots — mixing rhythm, code and real-world interaction"
+};
+```
+
+---
+
+## 🚀 What I do
+
+- 🔭 I’m currently working at **Macco Robotics** as **Team Leader / Full-Stack Developer**
+- 🤖 I build software for **humanoid robots**, including remote control SDKs and management apps
+- 💻 I work mainly with **Java, Spring Boot, React, TypeScript, React Native and MongoDB**
+- 🧩 I design backend architectures based on **microservices, REST APIs, JWT, WebSockets and Kafka**
+- 🌱 I’m improving my expertise in **backend architecture, distributed systems and secure APIs**
+- 💬 Ask me about **Java, Spring Boot, React, TypeScript, JWT, WebSockets and databases**
+- 📫 Reach me at **dmg.dev@hotmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,kafka" />
+</p>
 
-<!-- Backend -->
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://kafka.apache.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
+### Frontend & Mobile
 
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css" />
+</p>
 
-<!-- Database -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
+### Databases
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker" />
+</p>
+
+---
+
+## 📌 Featured areas
+
+<table>
+  <tr>
+    <td>
+      <strong>🤖 Robot Software</strong>
+      <br />
+      Remote control SDKs, real-time telemetry, WebSockets and robot management apps.
+    </td>
+    <td>
+      <strong>⚙️ Backend Development</strong>
+      <br />
+      Java, Spring Boot, JWT security, REST APIs, microservices and event-driven systems.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🖥️ Frontend Development</strong>
+      <br />
+      React, TypeScript, Material UI, Vite and responsive web applications.
+    </td>
+    <td>
+      <strong>📱 Mobile Development</strong>
+      <br />
+      React Native and Expo applications connected to backend services.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DmgDevX&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmgDevX&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/diemargondev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Diego_Marquez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building software that connects people, robots and real-world interaction.</em>
 </p>
