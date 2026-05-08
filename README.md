@@ -56,9 +56,11 @@ Specialized in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Reac
   <a href="mailto:dmg.dev@hotmail.com">
     <img src="https://img.shields.io/badge/Email-dmg.dev%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/diemargondev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diego_Márquez-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DmgDevX" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-DmgDevX-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
